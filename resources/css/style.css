@@ -10,12 +10,8 @@
 .navigation {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
-    padding: 0;
-}
-
-.navigation ul {
-  padding-left: 1.5rem;
+    justify-content: flex-start;
+    padding: 0, 0, 0, 1.5rem;
 }
 
 .title {
